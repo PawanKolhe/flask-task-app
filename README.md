@@ -5,7 +5,7 @@
 - Python 3
 
 ## Environment Setup
-> NOTE:  Python 3 maybe installed as `python` or `python3` in your system. Same applies for `pip` / `pip3`.
+> NOTE:  Python 3 maybe installed as `python` instead of `python3` in your system. Same applies for `pip` / `pip3`. Try the other if one does not work.
 
 1. Install `vitualenv` for isolated Python environment  
 ```bash
