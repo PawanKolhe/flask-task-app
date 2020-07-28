@@ -30,4 +30,4 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 
-4. Open `127.0.0.1:5000` in browser
+4. Open `http://127.0.0.1:5000` in browser
