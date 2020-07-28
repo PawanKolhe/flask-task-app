@@ -6,7 +6,7 @@
 
 ## Environment Setup
 
-1. Install vitualenv for isolated Python environment  
+1. Install `vitualenv` for isolated Python environment  
 ```bash
 pip3 install virtualenv
 ```
