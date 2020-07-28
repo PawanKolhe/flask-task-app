@@ -6,7 +6,12 @@
 
 ## Environment Setup
 
-1. Start `virtualenv` for isolated Python environment  
+1. Install vitualenv for isolated Python environment  
+```bash
+pip3 install virtualenv
+```
+
+2. Launch `virtualenv`
 
 - **Windows**
   ```powershell
@@ -21,12 +26,12 @@
   source ./env/Scripts/activate
   ```
   
-2. Install Dependencies  
+3. Install Dependencies  
 ```bash
 pip3 install -r requirements.txt
 ```
 
-3. Start server
+4. Start server
 ```
 python3 app.py
 ```
