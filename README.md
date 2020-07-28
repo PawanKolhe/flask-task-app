@@ -11,7 +11,12 @@
 pip3 install virtualenv
 ```
 
-2. Launch `virtualenv`
+2. Create `vitualenv` named env
+```bash
+virtualenv env
+```
+
+3. Launch `virtualenv`
 
 - **Windows**
   ```powershell
@@ -26,14 +31,14 @@ pip3 install virtualenv
   source ./env/Scripts/activate
   ```
   
-3. Install Dependencies  
+4. Install Dependencies  
 ```bash
 pip3 install -r requirements.txt
 ```
 
-4. Start server
+5. Start server
 ```
 python3 app.py
 ```
 
-4. Open `http://127.0.0.1:5000` in browser
+6. Open `http://127.0.0.1:5000` in browser
